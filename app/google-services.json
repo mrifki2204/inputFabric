@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908962702534",
+    "project_id": "inputfabric",
+    "storage_bucket": "inputfabric.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908962702534:android:9bb59324f97116c68e63c7",
+        "android_client_info": {
+          "package_name": "com.example.inputfabric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSql7ewbcibSLvJr0wqn_giocRvXP92Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
